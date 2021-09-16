@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+h1, p {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background: gray;
+}
